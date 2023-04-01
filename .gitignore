@@ -1,2 +1,4 @@
 venv/
-db-1_wordle/db-1_wordle.zip
+database/db-1_wordle.zip
+database/wordle_random.csv
+hangman.ipynb
